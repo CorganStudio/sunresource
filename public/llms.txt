@@ -1,0 +1,30 @@
+# SunResource
+
+> Domain research archive for the Sun. Literature reviews and primary-source analyses. Curated by Corgan Studio, Inc.
+
+Research Archive: https://sunresource.net/research/ (literature reviews by Corgan Studio, Inc., open to read).
+
+## Research Archive
+
+- [Geoeffective CME identification and operational lead time](https://sunresource.net/research/geoeffective-cme-lead-time): Review of the operational coronal mass ejection (CME) forecasting pipeline at NOAA SWPC, including SOHO LASCO and STEREO COR2 imaging, the WSA-Enlil heliospheric model, and the lead-time and skill-score record for arrival-time and Bz prediction.
+- [Parker Solar Probe coronal observations: implications for solar wind acceleration models](https://sunresource.net/research/parker-corona-observations): Review of Parker Solar Probe in-situ measurements within the sub-Alfvenic corona, with focus on the magnetic switchback phenomenon and what perihelion-pass plasma data have constrained for solar wind acceleration mechanisms.
+- [Solar cycle 25 activity and F10.7 forecasting performance](https://sunresource.net/research/solar-cycle-25-activity): Review of solar cycle 25 progression through 2026, the cycle's substantially-stronger-than-predicted activity record, and the operational forecasting performance of the SIDC consensus and NOAA SWPC predictions.
+- [Solar wind structure at 1 AU as resolved by SOHO and STEREO](https://sunresource.net/research/solar-wind-soho-stereo): Review of the long-term solar wind record at 1 AU constructed from SOHO/CELIAS, STEREO/IMPACT and PLASTIC, and ACE/DSCOVR in-situ measurements, with focus on the slow / fast wind dichotomy, stream-interaction regions, and solar-cycle-dependent average properties.
+- [Sunspot magnetic complexity and flare productivity](https://sunresource.net/research/sunspot-complexity-flares): Review of the magnetic-complexity classifications (Hale, McIntosh, Mount Wilson) of sunspot active regions, the empirical correlation with major flare productivity, and the operational use of complexity metrics in NOAA SWPC flare forecasting.
+
+## Related archives
+
+- [TerraResource Research Archive](https://terraresource.net/research/)
+- [MoonResource Research Archive](https://moonresource.com/research/)
+- [MarsResource Research Archive](https://marsresource.net/research/)
+- [MercuryResource Research Archive](https://mercuryresource.net/research/)
+- [VenusResource Research Archive](https://venusresource.net/research/)
+- [JupiterResource Research Archive](https://jupiterresource.net/research/)
+- [SaturnResource Research Archive](https://saturnresource.net/research/)
+- [UranusResource Research Archive](https://uranusresource.net/research/)
+- [NeptuneResource Research Archive](https://neptuneresource.net/research/)
+- [PlutoResource Research Archive](https://plutoresource.net/research/)
+- [GalacticResource Research Archive](https://galacticresource.com/research/)
+- [SolarSystemResource Research Archive](https://solarsystemresource.com/research/)
+
+Sitemap: https://sunresource.net/sitemap.xml
